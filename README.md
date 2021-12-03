@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @Pro-gram-me-r
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
